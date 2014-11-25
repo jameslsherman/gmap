@@ -5,4 +5,4 @@ Installation
 2. Copy Project From File...
 3. Build Project 
 4. Check that Role and Permission list are setup in Security.
-5. Add the role to an existing user.
+5. Add the KTX role to an existing user.
