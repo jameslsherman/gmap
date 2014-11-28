@@ -1,9 +1,7 @@
 gmap
 ====
 
-PeopleSoft Google Maps Integration
-
-The implementation of this bolt-on module was nominated for the Oracle North America Titan Awards 2007.
+PeopleSoft Google Maps Integration - Oracle North America Titan Awards Nominee
 
 
 Features
