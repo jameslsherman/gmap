@@ -1,7 +1,7 @@
 gmap
 ====
 
-PeopleSoft Google Maps Integration - Oracle North America Titan Awards Nominee
+PeopleSoft Google Maps Integration
 
 
 Features
@@ -14,17 +14,6 @@ Features
 * Uses PeopleSoft Query to Select Data
 * Can add Overlays to your Data (Points, Lines, and/or Areas)
 * Integrates with all Major Map Providers
-
-
-Demo
-----
-
-<a href="http://pshelp.me/demo/data2info.htm" target="_blank">Turn Data into Info</a>
-
-Contributor
------------
-
-James L Sherman - PeopleSoft consultant with over 18 years of PeopleSoft HR/Payroll, Financials and Supply Chain experience.  Attained perferred supplier status to PeopleSoft through their Contracting Service Provider (CSP) program.  Oracle North America Titan Award Nominee.
 
 
 Status
